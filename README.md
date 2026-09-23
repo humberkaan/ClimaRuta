@@ -18,4 +18,5 @@ Se utilizarán las siguientes APIs:
 - Open-Meteo Geocoding API: para localizar las ciudades y obtener sus coordenadas.
 - openrouteservice: para calcular la ruta y los tiempos estimados del viaje.
 - Open-Meteo Forecast API: para consultar la temperatura, las precipitaciones y el viento previstos durante el recorrido.
+- 
 La simulación permitirá comparar diferentes horarios de salida para identificar cuándo se encontraría menos lluvia durante el viaje.
